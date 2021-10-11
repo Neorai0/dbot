@@ -1,0 +1,11 @@
+asyncio
+selenium
+disrod.py[voice]
+pip
+beautifulsoup4
+youtube-dl
+ffmpeng-python
+requests
+lxml
+urlib3
+Opton3
